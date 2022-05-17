@@ -1,0 +1,30 @@
+body{
+    margin-top: 100px;
+}
+.panel-footer span{
+    color:blue;  
+}
+footer{
+ padding: 10px 0;
+ background-color: #101010;
+ color:#9d9d9d;
+ width: 100%;
+ bottom: 0;
+ position: fixed;
+}
+.btn{
+    border-radius :25px;
+    background-color:#3e08ab;
+    border:none;
+    color:white;
+}
+.btn:focus{
+    outline:none !important;
+}
+.btn-default{
+    border-color:#FF5733;
+}
+.btn-default:hover {
+color: white;
+background-color: #FF5733;
+}
